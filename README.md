@@ -1,1 +1,2 @@
-# Group_Lab_1_Group3
+# Group Lab 1 - TeamGreeting
+Group 03
